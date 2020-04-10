@@ -1,0 +1,657 @@
+name,cell_type,xmin,xmax,ymin,ymax
+./images/DJI_0091.jpg,crack,807,832,207,239
+./images/DJI_0091.jpg,missing,2561,2593,1126,1139
+./images/DJI_0091.jpg,missing,2748,2770,1054,1065
+./images/DJI_0091.jpg,hit by some particles,2099,2239,1408,1543
+./images/DJI_0046.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0046.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0046.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0052.jpg,hit by some particles,1538,1656,2541,2668
+./images/DJI_0132.jpg,vg panel missing,876,930,1064,1097
+./images/DJI_0132.jpg,rust,2453,2488,651,700
+./images/DJI_0132.jpg,rust,2466,2492,705,769
+./images/DJI_0132.jpg,rust,2491,2509,774,826
+./images/DJI_0132.jpg,wind erosion,2509,2532,791,819
+./images/DJI_0132.jpg,lightning damage,2612,2627,1081,1096
+./images/DJI_0132.jpg,wind erosion,2584,2606,1067,1101
+./images/DJI_0132.jpg,wind erosion,2563,2577,1093,1121
+./images/DJI_0132.jpg,wind erosion,2609,2627,674,697
+./images/DJI_0132.jpg,broken,3208,3297,2112,2146
+./images/DJI_0126.jpg,rust,3173,3215,2083,2140
+./images/DJI_0126.jpg,rust,3219,3257,2137,2186
+./images/DJI_0126.jpg,rust,3262,3302,2187,2251
+./images/DJI_0126.jpg,wind erosion,3320,3345,2204,2255
+./images/DJI_0126.jpg,wind erosion,3524,3551,2474,2506
+./images/DJI_0126.jpg,lightning damage,3555,3574,2487,2497
+./images/DJI_0126.jpg,wind erosion,3499,3520,2508,2535
+./images/DJI_0127.jpg,vg panel missing,4693,4737,368,408
+./images/DJI_0127.jpg,vg panel missing,1881,1926,2230,2263
+./images/DJI_0127.jpg,wind erosion,3486,3511,2082,2110
+./images/DJI_0127.jpg,wind erosion,3508,3542,2043,2080
+./images/DJI_0127.jpg,lightning damage,3552,3564,2058,2080
+./images/DJI_0127.jpg,rust,3169,3225,1667,1722
+./images/DJI_0127.jpg,rust,3223,3254,1713,1754
+./images/DJI_0127.jpg,rust,3249,3308,1770,1830
+./images/DJI_0127.jpg,wind erosion,3315,3349,1789,1823
+./images/DJI_0133.jpg,vg panel missing,806,862,969,1008
+./images/DJI_0133.jpg,lightning damage,2491,2507,1066,1085
+./images/DJI_0133.jpg,wind erosion,2455,2485,1052,1086
+./images/DJI_0133.jpg,wind erosion,2449,2457,1092,1109
+./images/DJI_0133.jpg,rust,2397,2434,654,685
+./images/DJI_0133.jpg,rust,2405,2429,698,738
+./images/DJI_0133.jpg,rust,2407,2424,744,815
+./images/DJI_0133.jpg,wind erosion,2431,2455,779,812
+./images/DJI_0133.jpg,broken,3163,3201,2128,2179
+./images/DJI_0053.jpg,wind erosion,3287,3327,637,702
+./images/DJI_0047.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0047.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0047.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0090.jpg,crack,1179,1197,266,287
+./images/DJI_0090.jpg,missing,2817,2837,1153,1163
+./images/DJI_0090.jpg,missing,2986,3006,1080,1091
+./images/DJI_0090.jpg,hit by some particles,2396,2543,1445,1570
+./images/DJI_0092.jpg,missing,1372,1392,291,311
+./images/DJI_0092.jpg,missing,3020,3056,1245,1259
+./images/DJI_0092.jpg,missing,3221,3243,1185,1192
+./images/DJI_0092.jpg,hit by some particles,2543,2659,1502,1674
+./images/DJI_0051.jpg,wind erosion,3193,3238,402,466
+./images/DJI_0045.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0045.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0045.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0119.jpg,rust,2159,2256,2563,2587
+./images/DJI_0119.jpg,rust,2275,2381,2570,2604
+./images/DJI_0119.jpg,rust,2393,2480,2590,2639
+./images/DJI_0119.jpg,wind erosion,2485,2513,2579,2646
+./images/DJI_0119.jpg,lightning damage,2945,2977,2691,2715
+./images/DJI_0119.jpg,wind erosion,2906,2952,2706,2745
+./images/DJI_0119.jpg,wind erosion,2906,2933,2765,2779
+./images/DJI_0125.jpg,rust,2927,2976,2111,2170
+./images/DJI_0125.jpg,rust,2982,3038,2165,2229
+./images/DJI_0125.jpg,rust,3044,3066,2226,2260
+./images/DJI_0125.jpg,rust,3066,3084,2272,2290
+./images/DJI_0125.jpg,wind erosion,3091,3125,2246,2279
+./images/DJI_0125.jpg,wind erosion,3294,3318,2541,2564
+./images/DJI_0125.jpg,wind erosion,3322,3351,2494,2541
+./images/DJI_0125.jpg,lightning damage,3356,3376,2508,2528
+./images/DJI_0131.jpg,vg panel missing,1085,1140,1133,1172
+./images/DJI_0131.jpg,lightning damage,2854,2868,1065,1082
+./images/DJI_0131.jpg,wind erosion,2819,2846,1048,1085
+./images/DJI_0131.jpg,wind erosion,2796,2819,1089,1106
+./images/DJI_0131.jpg,rust,2618,2653,653,686
+./images/DJI_0131.jpg,rust,2638,2672,691,753
+./images/DJI_0131.jpg,rust,2670,2691,750,816
+./images/DJI_0131.jpg,wind erosion,2701,2732,779,809
+./images/DJI_0130.jpg,vg panel missing,1263,1309,1168,1208
+./images/DJI_0130.jpg,lightning damage,2997,3027,1012,1031
+./images/DJI_0130.jpg,wind erosion,2964,2994,1013,1039
+./images/DJI_0130.jpg,wind erosion,2951,2969,1041,1070
+./images/DJI_0130.jpg,rust,2700,2742,601,654
+./images/DJI_0130.jpg,rust,2733,2768,654,701
+./images/DJI_0130.jpg,rust,2763,2795,704,749
+./images/DJI_0130.jpg,rust,2792,2817,759,782
+./images/DJI_0130.jpg,wind erosion,2819,2846,738,764
+./images/DJI_0130.jpg,broken,3474,3533,1972,2013
+./images/DJI_0124.jpg,rust,2646,2709,2212,2250
+./images/DJI_0124.jpg,rust,2711,2758,2255,2285
+./images/DJI_0124.jpg,rust,2759,2807,2291,2329
+./images/DJI_0124.jpg,rust,2813,2830,2343,2363
+./images/DJI_0124.jpg,wind erosion,2845,2870,2316,2353
+./images/DJI_0124.jpg,lightning damage,3125,3167,2557,2585
+./images/DJI_0124.jpg,wind erosion,3097,3133,2566,2600
+./images/DJI_0124.jpg,wind erosion,3080,3107,2613,2631
+./images/DJI_0118.jpg,lightning damage,2931,2953,2595,2609
+./images/DJI_0118.jpg,wind erosion,2891,2944,2608,2643
+./images/DJI_0118.jpg,wind erosion,2892,2921,2666,2677
+./images/DJI_0118.jpg,rust,2143,2237,2530,2559
+./images/DJI_0118.jpg,rust,2248,2466,2529,2582
+./images/DJI_0118.jpg,wind erosion,2470,2502,2520,2580
+./images/DJI_0044.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0044.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0044.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0050.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0050.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0050.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0093.jpg,missing,1327,1352,267,293
+./images/DJI_0093.jpg,broken,1951,1997,2589,2667
+./images/DJI_0093.jpg,hit by some particles,2488,2604,1490,1655
+./images/DJI_0093.jpg,missing,2999,3043,1248,1262
+./images/DJI_0093.jpg,missing,3208,3238,1191,1204
+./images/DJI_0097.jpg,missing,855,877,320,341
+./images/DJI_0097.jpg,missing,2653,2687,1546,1548
+./images/DJI_0097.jpg,missing,2896,2931,1526,1531
+./images/DJI_0097.jpg,hit by some particles,2042,2107,1651,1835
+./images/DJI_0097.jpg,broken,1610,1666,2612,2676
+./images/DJI_0054.jpg,wind erosion,3317,3355,862,922
+./images/DJI_0040.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0040.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0040.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0120.jpg,rust,2316,2407,2546,2576
+./images/DJI_0120.jpg,rust,2418,2520,2579,2626
+./images/DJI_0120.jpg,rust,2535,2574,2619,2643
+./images/DJI_0120.jpg,rust,2597,2617,2655,2673
+./images/DJI_0120.jpg,wind erosion,2617,2652,2616,2653
+./images/DJI_0120.jpg,lightning damage,3067,3095,2792,2810
+./images/DJI_0120.jpg,wind erosion,3025,3072,2793,2835
+./images/DJI_0120.jpg,wind erosion,3018,3040,2850,2870
+./images/DJI_0134.jpg,vg panel missing,810,857,862,898
+./images/DJI_0134.jpg,rust,2420,2441,591,635
+./images/DJI_0134.jpg,rust,2422,2433,644,700
+./images/DJI_0134.jpg,rust,2422,2429,716,755
+./images/DJI_0134.jpg,wind erosion,2565,2584,614,658
+./images/DJI_0134.jpg,lightning damage,2470,2484,1013,1029
+./images/DJI_0134.jpg,wind erosion,2445,2466,998,1039
+./images/DJI_0134.jpg,wind erosion,2428,2439,1032,1052
+./images/DJI_0134.jpg,broken,3157,3232,2111,2170
+./images/DJI_0108.jpg,hit by some particles,2017,2317,1940,2093
+./images/DJI_0108.jpg,missing,1837,1849,237,263
+./images/DJI_0108.jpg,missing,2859,2888,2179,2199
+./images/DJI_0108.jpg,missing,3059,3084,2312,2330
+./images/DJI_0109.jpg,hit by some particles,1918,2334,2014,2181
+./images/DJI_0109.jpg,hit by some particles,2557,2607,1917,1993
+./images/DJI_0109.jpg,missing,1897,1904,272,291
+./images/DJI_0109.jpg,missing,2788,2809,2292,2317
+./images/DJI_0109.jpg,missing,2963,2987,2447,2471
+./images/DJI_0121.jpg,rust,2511,2589,2375,2423
+./images/DJI_0121.jpg,rust,2594,2689,2407,2459
+./images/DJI_0121.jpg,rust,2703,2744,2452,2482
+./images/DJI_0121.jpg,rust,2767,2779,2491,2508
+./images/DJI_0121.jpg,wind erosion,2790,2808,2448,2491
+./images/DJI_0121.jpg,lightning damage,3206,3229,2637,2658
+./images/DJI_0121.jpg,wind erosion,3156,3208,2642,2674
+./images/DJI_0121.jpg,wind erosion,3151,3185,2690,2714
+./images/DJI_0041.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0041.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0041.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0055.jpg,wind erosion,3305,3355,898,955
+./images/DJI_0096.jpg,missing,1051,1084,310,338
+./images/DJI_0096.jpg,broken,1743,1840,2623,2672
+./images/DJI_0096.jpg,hit by some particles,2131,2173,1675,1827
+./images/DJI_0096.jpg,missing,2837,2876,1508,1510
+./images/DJI_0096.jpg,missing,3077,3108,1484,1488
+./images/DJI_0096.jpg,hit by some particles,2272,2305,1637,1829
+./images/DJI_0094.jpg,broken,1987,2037,2679,2743
+./images/DJI_0094.jpg,missing,1380,1405,354,379
+./images/DJI_0094.jpg,hit by some particles,2507,2545,1642,1783
+./images/DJI_0094.jpg,missing,3101,3142,1452,1459
+./images/DJI_0094.jpg,missing,3319,3364,1414,1424
+./images/DJI_0043.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0043.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0043.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0057.jpg,wind erosion,3622,3665,1109,1162
+./images/DJI_0123.jpg,rust,2508,2585,2241,2297
+./images/DJI_0123.jpg,rust,2592,2697,2279,2367
+./images/DJI_0123.jpg,rust,2714,2730,2376,2413
+./images/DJI_0123.jpg,wind erosion,2736,2763,2348,2387
+./images/DJI_0123.jpg,lightning damage,3078,3102,2588,2601
+./images/DJI_0123.jpg,wind erosion,3038,3076,2576,2621
+./images/DJI_0123.jpg,wind erosion,3018,3048,2629,2648
+./images/DJI_0122.jpg,rust,2348,2425,2304,2354
+./images/DJI_0122.jpg,rust,2431,2514,2356,2404
+./images/DJI_0122.jpg,rust,2529,2557,2393,2422
+./images/DJI_0122.jpg,rust,2576,2601,2436,2469
+./images/DJI_0122.jpg,wind erosion,2598,2629,2404,2443
+./images/DJI_0122.jpg,lightning damage,2986,3008,2614,2628
+./images/DJI_0122.jpg,wind erosion,2945,2986,2609,2653
+./images/DJI_0122.jpg,wind erosion,2930,2955,2658,2683
+./images/DJI_0056.jpg,wind erosion,3645,3714,964,1040
+./images/DJI_0042.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0042.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0042.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0095.jpg,missing,1052,1073,310,336
+./images/DJI_0095.jpg,hit by some particles,2190,2208,1614,1762
+./images/DJI_0095.jpg,missing,2832,2875,1445,1451
+./images/DJI_0095.jpg,missing,3070,3099,1414,1420
+./images/DJI_0095.jpg,broken,1751,1821,2616,2672
+./images/DJI_0019.jpg,Lightning damage,2807,2839,786,814
+./images/DJI_0019.jpg,Lightning damage,2965,2996,768,797
+./images/DJI_0019.jpg,VG panel missing,2874,2905,674,688
+./images/DJI_0019.jpg,VG panel missing,3233,3266,672,691
+./images/DJI_0019.jpg,Broken part,1508,1596,2187,2255
+./images/DJI_0019.jpg,Rust,1855,1958,804,864
+./images/DJI_0019.jpg,Lightning damage,1567,1589,4,28
+./images/DJI_0019.jpg,Lightning damage,4904,4920,634,664
+./images/DJI_0025.jpg,Lightning damage,2067,2100,1028,1052
+./images/DJI_0025.jpg,Lightning damage,2184,2229,1060,1081
+./images/DJI_0025.jpg,Lightning damage,1156,1183,35,64
+./images/DJI_0025.jpg,Lightning damage,4039,4077,1381,1403
+./images/DJI_0025.jpg,VG panel missing,2105,2134,927,944
+./images/DJI_0025.jpg,VG panel missing,2397,2425,999,1018
+./images/DJI_0025.jpg,Rust,937,1019,958,974
+./images/DJI_0031.jpg,Lightning damage,3430,3464,2310,2363
+./images/DJI_0031.jpg,VG panel missing,2464,2472,1091,1113
+./images/DJI_0031.jpg,VG panel missing,2588,2601,1243,1263
+./images/DJI_0031.jpg,Broken part,2246,2324,2077,2107
+./images/DJI_0031.jpg,Rust,1522,1669,855,885
+./images/DJI_0031.jpg,Lightning damage,2147,2162,219,233
+./images/DJI_0031.jpg,Lightning damage,2144,2162,177,191
+./images/DJI_0031.jpg,VG panel missing,2256,2270,1607,1630
+./images/DJI_0030.jpg,Lightning damage,3430,3464,2310,2363
+./images/DJI_0030.jpg,VG panel missing,2464,2472,1091,1113
+./images/DJI_0030.jpg,VG panel missing,2588,2601,1243,1263
+./images/DJI_0030.jpg,Broken part,2246,2324,2077,2107
+./images/DJI_0030.jpg,Rust,1522,1669,855,885
+./images/DJI_0030.jpg,Lightning damage,2147,2162,219,233
+./images/DJI_0030.jpg,Lightning damage,2144,2162,177,191
+./images/DJI_0030.jpg,VG panel missing,2256,2270,1607,1630
+./images/DJI_0024.jpg,Broken part,1374,1426,2154,2252
+./images/DJI_0024.jpg,Lightning damage,2189,2236,1060,1090
+./images/DJI_0024.jpg,Lightning damage,2336,2368,1085,1102
+./images/DJI_0024.jpg,Lightning damage,4308,4336,1350,1379
+./images/DJI_0024.jpg,Rust,1048,1173,1010,1032
+./images/DJI_0024.jpg,Lightning damage,1204,1226,72,97
+./images/DJI_0018.jpg,Lightning damage,2862,2891,750,770
+./images/DJI_0018.jpg,Lightning damage,3025,3042,738,749
+./images/DJI_0018.jpg,Lightning damage,4878,4909,534,545
+./images/DJI_0018.jpg,Broken part,1500,1576,2222,2279
+./images/DJI_0018.jpg,Lightning damage,1594,1614,4,20
+./images/DJI_0018.jpg,Lightning damage,1748,1765,1410,1425
+./images/DJI_0018.jpg,Lightning damage,1783,1793,1311,1319
+./images/DJI_0032.jpg,Broken part,2494,2568,2101,2150
+./images/DJI_0032.jpg,VG panel missing,2583,2589,1333,1352
+./images/DJI_0032.jpg,VG panel missing,2519,2530,1152,1173
+./images/DJI_0032.jpg,VG panel missing,2390,2403,183,243
+./images/DJI_0032.jpg,Rust,1709,1827,841,883
+./images/DJI_0026.jpg,Lightning damage,2213,2250,954,970
+./images/DJI_0026.jpg,Lightning damage,2319,2351,989,1004
+./images/DJI_0026.jpg,Lightning damage,3967,4012,1430,1457
+./images/DJI_0026.jpg,Lightning damage,1560,1597,87,144
+./images/DJI_0026.jpg,Rust,1162,1293,798,842
+./images/DJI_0026.jpg,VG panel missing,2250,2274,845,865
+./images/DJI_0026.jpg,VG panel missing,2500,2519,934,948
+./images/DJI_0027.jpg,VG panel missing,4197,4247,1628,1676
+./images/DJI_0027.jpg,Rust,1581,1855,737,804
+./images/DJI_0027.jpg,VG panel missing,2637,2653,878,893
+./images/DJI_0027.jpg,VG panel missing,2847,2866,981,1000
+./images/DJI_0027.jpg,Lightning damage,2602,2617,987,1001
+./images/DJI_0027.jpg,Lightning damage,2698,2713,1029,1040
+./images/DJI_0033.jpg,Broken part,2494,2568,2101,2150
+./images/DJI_0033.jpg,VG panel missing,2583,2589,1333,1352
+./images/DJI_0033.jpg,VG panel missing,2519,2530,1152,1173
+./images/DJI_0033.jpg,VG panel missing,2390,2403,183,243
+./images/DJI_0033.jpg,Rust,1709,1827,841,883
+./images/DJI_0037.jpg,Broken part,3398,3513,2526,2619
+./images/DJI_0037.jpg,Lightning damage,1461,1540,2212,2236
+./images/DJI_0037.jpg,Rust,2355,2535,944,995
+./images/DJI_0023.jpg,Lightning damage,2306,2338,1019,1048
+./images/DJI_0023.jpg,Lightning damage,2450,2488,1034,1064
+./images/DJI_0023.jpg,Lightning damage,4456,4485,1200,1237
+./images/DJI_0023.jpg,Broken part,1387,1469,2176,2255
+./images/DJI_0023.jpg,Lightning damage,1255,1277,72,99
+./images/DJI_0023.jpg,Lightning damage,1403,1416,257,281
+./images/DJI_0023.jpg,Rust,1153,1250,998,1039
+./images/DJI_0023.jpg,VG panel missing,2359,2386,909,921
+./images/DJI_0023.jpg,VG panel missing,2687,2719,960,973
+./images/DJI_0022.jpg,Broken part,1497,1561,2172,2257
+./images/DJI_0022.jpg,Lightning damage,1419,1453,71,91
+./images/DJI_0022.jpg,Lightning damage,2521,2545,982,1001
+./images/DJI_0022.jpg,Lightning damage,2667,2702,988,1019
+./images/DJI_0022.jpg,Rust,1388,1517,965,993
+./images/DJI_0022.jpg,VG panel missing,2573,2602,873,887
+./images/DJI_0022.jpg,VG panel missing,2913,2947,916,931
+./images/DJI_0022.jpg,Lightning damage,4695,4748,1095,1127
+./images/DJI_0036.jpg,Rust,2285,2375,899,941
+./images/DJI_0036.jpg,Lightning damage,1815,1849,2101,2135
+./images/DJI_0036.jpg,Broken part,3262,3376,2423,2479
+./images/DJI_0036.jpg,Lightning damage,3205,3287,1046,1101
+./images/DJI_0020.jpg,Lightning damage,2803,2849,846,890
+./images/DJI_0020.jpg,Lightning damage,2963,3036,838,871
+./images/DJI_0020.jpg,VG panel missing,2867,2900,738,756
+./images/DJI_0020.jpg,VG panel missing,3223,3268,742,767
+./images/DJI_0020.jpg,Broken part,1573,1641,2178,2246
+./images/DJI_0020.jpg,Lightning damage,1765,1809,1408,1447
+./images/DJI_0020.jpg,Lightning damage,1789,1827,1316,1338
+./images/DJI_0020.jpg,Wind Erosion,1740,1763,1766,1776
+./images/DJI_0020.jpg,Wind Erosion,1749,1771,1744,1760
+./images/DJI_0020.jpg,Wind Erosion,1759,1777,1726,1744
+./images/DJI_0020.jpg,Wind Erosion,1755,1804,1700,1726
+./images/DJI_0020.jpg,Lightning damage,1601,1656,7,55
+./images/DJI_0034.jpg,Broken part,2494,2568,2101,2150
+./images/DJI_0034.jpg,VG panel missing,2583,2589,1333,1352
+./images/DJI_0034.jpg,VG panel missing,2519,2530,1152,1173
+./images/DJI_0034.jpg,VG panel missing,2390,2403,183,243
+./images/DJI_0034.jpg,Rust,1709,1827,841,883
+./images/DJI_0008.jpg,Lightning damage,1825,1869,1804,1825
+./images/DJI_0008.jpg,Lightning damage,1888,1905,1651,1673
+./images/DJI_0008.jpg,Lightning damage,3017,3051,631,650
+./images/DJI_0008.jpg,Lightning damage,3151,3169,583,598
+./images/DJI_0008.jpg,VG panel missing,3073,3139,491,519
+./images/DJI_0008.jpg,VG panel missing,3343,3411,403,425
+./images/DJI_0008.jpg,Lightning damage,1715,1783,10,39
+./images/DJI_0008.jpg,Rust,2372,2395,834,861
+./images/DJI_0008.jpg,Rust,2415,2446,867,888
+./images/DJI_0008.jpg,Rust,2528,2568,1058,1107
+./images/DJI_0008.jpg,Rust,2577,2595,986,1011
+./images/DJI_0008.jpg,Rust,2468,2557,914,960
+./images/DJI_0008.jpg,Lightning damage,4350,4367,87,94
+./images/DJI_0008.jpg,Wind Erosion,1759,1778,2286,2298
+./images/DJI_0008.jpg,Wind Erosion,1771,1793,2254,2264
+./images/DJI_0008.jpg,Wind Erosion,1787,1800,2224,2232
+./images/DJI_0008.jpg,Wind Erosion,1796,1814,2188,2198
+./images/DJI_0008.jpg,Wind Erosion,1806,1827,2162,2175
+./images/DJI_0008.jpg,Wind Erosion,1817,1842,2125,2145
+./images/DJI_0009.jpg,Broken part,1515,1647,2848,2920
+./images/DJI_0009.jpg,Lightning damage,3128,3177,650,691
+./images/DJI_0009.jpg,Lightning damage,3268,3332,619,648
+./images/DJI_0009.jpg,VG panel missing,3203,3255,530,555
+./images/DJI_0009.jpg,VG panel missing,3491,3554,459,479
+./images/DJI_0009.jpg,VG panel missing,1833,1864,25,70
+./images/DJI_0009.jpg,Rust,2415,2450,849,861
+./images/DJI_0009.jpg,Rust,2446,2478,875,897
+./images/DJI_0009.jpg,Rust,2484,2585,928,972
+./images/DJI_0009.jpg,Rust,2520,2559,1060,1101
+./images/DJI_0009.jpg,Rust,2566,2585,1000,1011
+./images/DJI_0009.jpg,Lightning damage,1910,1954,1735,1763
+./images/DJI_0009.jpg,Lightning damage,1975,2000,1594,1617
+./images/DJI_0009.jpg,Lightning damage,4591,4616,160,176
+./images/DJI_0009.jpg,Wind Erosion,1894,1909,2076,2087
+./images/DJI_0009.jpg,Wind Erosion,1867,1889,2138,2148
+./images/DJI_0009.jpg,Wind Erosion,1881,1901,2103,2120
+./images/DJI_0009.jpg,Wind Erosion,1845,1869,2189,2200
+./images/DJI_0009.jpg,Wind Erosion,1856,1870,2158,2173
+./images/DJI_0009.jpg,Wind Erosion,1735,1791,168,208
+./images/DJI_0035.jpg,Rust,1957,2086,881,920
+./images/DJI_0035.jpg,Broken part,2794,2865,2204,2265
+./images/DJI_0021.jpg,Lightning damage,2703,2785,907,959
+./images/DJI_0021.jpg,Lightning damage,2862,2944,916,966
+./images/DJI_0021.jpg,Lightning damage,1568,1598,50,67
+./images/DJI_0021.jpg,Broken part,1574,1658,2156,2233
+./images/DJI_0021.jpg,Lightning damage,4922,4947,932,959
+./images/DJI_0021.jpg,VG panel missing,2773,2801,801,811
+./images/DJI_0021.jpg,VG panel missing,3129,3159,830,845
+./images/DJI_0038.jpg,Rust,2355,2429,1025,1059
+./images/DJI_0038.jpg,Broken part,3429,3531,2659,2710
+./images/DJI_0038.jpg,Lightning damage,1295,1323,2408,2433
+./images/DJI_0038.jpg,Lightning damage,3277,3340,1241,1299
+./images/DJI_0038.jpg,Lightning damage,1298,1332,2471,2496
+./images/DJI_0004.jpg,VG panel missing,3262,3307,275,305
+./images/DJI_0004.jpg,VG panel missing,3460,3497,174,201
+./images/DJI_0004.jpg,VG panel,3580,3617,118,138
+./images/DJI_0004.jpg,Lightning damage,2266,2301,1740,1761
+./images/DJI_0004.jpg,VG panel,2275,2358,208,328
+./images/DJI_0004.jpg,VG panel,2172,2274,49,188
+./images/DJI_0010.jpg,Broken part,1751,1881,2663,2704
+./images/DJI_0010.jpg,Lightning damage,3434,3463,669,697
+./images/DJI_0010.jpg,Lightning damage,3587,3613,633,660
+./images/DJI_0010.jpg,Lightning damage,2104,2153,1,36
+./images/DJI_0010.jpg,Lightning damage,2161,2201,1627,1652
+./images/DJI_0010.jpg,Lightning damage,2219,2246,1500,1516
+./images/DJI_0010.jpg,Wind Erosion,2085,2103,2054,2073
+./images/DJI_0010.jpg,Wind Erosion,2102,2111,2025,2041
+./images/DJI_0010.jpg,Wind Erosion,2136,2154,1949,1963
+./images/DJI_0010.jpg,Wind Erosion,2109,2125,2001,2013
+./images/DJI_0010.jpg,Wind Erosion,2125,2137,1974,1988
+./images/DJI_0010.jpg,Wind Erosion,2149,2173,1927,1937
+./images/DJI_0010.jpg,Rust,2615,2639,795,826
+./images/DJI_0010.jpg,Rust,2664,2731,883,929
+./images/DJI_0010.jpg,Rust,2709,2735,956,971
+./images/DJI_0010.jpg,Rust,2635,2675,838,853
+./images/DJI_0010.jpg,Rust,2653,2685,861,872
+./images/DJI_0010.jpg,VG panel missing,3505,3556,545,560
+./images/DJI_0010.jpg,VG panel missing,3834,3875,485,500
+./images/DJI_0010.jpg,Wind Erosion,2022,2066,123,155
+./images/DJI_0010.jpg,Lightning damage,5107,5127,231,247
+./images/DJI_0011.jpg,Broken part,1890,1978,2508,2593
+./images/DJI_0011.jpg,VG panel missing,3602,3652,621,650
+./images/DJI_0011.jpg,VG panel missing,3946,3994,571,599
+./images/DJI_0011.jpg,Lightning damage,3527,3555,744,767
+./images/DJI_0011.jpg,Lightning damage,3687,3719,721,741
+./images/DJI_0011.jpg,Lightning damage,2268,2293,1591,1612
+./images/DJI_0011.jpg,Lightning damage,2321,2348,1465,1492
+./images/DJI_0011.jpg,Lightning damage,2226,2254,65,80
+./images/DJI_0011.jpg,Rust,2677,2713,913,955
+./images/DJI_0011.jpg,Wind Erosion,2186,2198,1986,1999
+./images/DJI_0011.jpg,Wind Erosion,2198,2212,1963,1977
+./images/DJI_0011.jpg,Wind Erosion,2211,2228,1936,1950
+./images/DJI_0011.jpg,Wind Erosion,2224,2237,1916,1928
+./images/DJI_0011.jpg,Wind Erosion,2235,2253,1887,1901
+./images/DJI_0011.jpg,Wind Erosion,2247,2263,1868,1879
+./images/DJI_0011.jpg,Wind Erosion,2139,2171,174,201
+./images/DJI_0005.jpg,VG panel missing,3079,3121,330,344
+./images/DJI_0005.jpg,VG panel missing,3279,3319,222,248
+./images/DJI_0005.jpg,Lightning damage,2022,2083,1911,1958
+./images/DJI_0005.jpg,Lightning damage,2068,2126,1747,1778
+./images/DJI_0005.jpg,Rust,2707,2749,719,761
+./images/DJI_0005.jpg,Rust,2797,2827,747,789
+./images/DJI_0005.jpg,Rust,2920,3032,759,866
+./images/DJI_0005.jpg,Rust,2977,3099,918,1040
+./images/DJI_0005.jpg,Rust,2273,2326,711,746
+./images/DJI_0039.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0039.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0039.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0013.jpg,Broken part,1646,1736,2379,2452
+./images/DJI_0013.jpg,VG panel missing,3284,3333,595,614
+./images/DJI_0013.jpg,VG panel missing,3659,3699,563,583
+./images/DJI_0013.jpg,Lightning damage,1979,2007,1499,1518
+./images/DJI_0013.jpg,Lightning damage,2016,2048,1381,1400
+./images/DJI_0013.jpg,Rust,2214,2254,851,883
+./images/DJI_0013.jpg,Lightning damage,3213,3249,723,738
+./images/DJI_0013.jpg,Lightning damage,3382,3408,694,714
+./images/DJI_0013.jpg,Lightning damage,5202,5224,400,415
+./images/DJI_0013.jpg,Wind Erosion,1787,1825,93,124
+./images/DJI_0007.jpg,Lightning damage,1818,1858,1771,1795
+./images/DJI_0007.jpg,Lightning damage,1888,1913,1606,1636
+./images/DJI_0007.jpg,Lightning damage,2972,3016,493,511
+./images/DJI_0007.jpg,Lightning damage,3097,3130,435,459
+./images/DJI_0007.jpg,VG panel missing,3035,3104,343,371
+./images/DJI_0007.jpg,VG panel missing,3272,3337,255,272
+./images/DJI_0007.jpg,Rust,2424,2461,701,731
+./images/DJI_0007.jpg,Rust,2558,2651,755,822
+./images/DJI_0007.jpg,Rust,2488,2520,725,756
+./images/DJI_0007.jpg,Rust,2680,2718,840,857
+./images/DJI_0007.jpg,Rust,2631,2708,900,967
+./images/DJI_0006.jpg,VG panel missing,2970,3028,342,368
+./images/DJI_0006.jpg,VG panel missing,3192,3242,250,267
+./images/DJI_0006.jpg,Lightning damage,1835,1879,1886,1902
+./images/DJI_0006.jpg,Lightning damage,1883,1939,1712,1727
+./images/DJI_0006.jpg,Lightning damage,2916,2976,500,524
+./images/DJI_0006.jpg,Lightning damage,3022,3068,441,461
+./images/DJI_0006.jpg,Rust,2489,2508,739,769
+./images/DJI_0006.jpg,Rust,2550,2580,756,788
+./images/DJI_0006.jpg,Rust,2642,2769,785,874
+./images/DJI_0006.jpg,Rust,2759,2798,939,1003
+./images/DJI_0006.jpg,Rust,2803,2835,864,897
+./images/DJI_0012.jpg,Broken part,1960,2082,2382,2470
+./images/DJI_0012.jpg,Lightning damage,3622,3655,731,760
+./images/DJI_0012.jpg,Lightning damage,3790,3803,715,729
+./images/DJI_0012.jpg,Lightning damage,2323,2341,15,34
+./images/DJI_0012.jpg,VG panel missing,3698,3735,613,629
+./images/DJI_0012.jpg,VG panel missing,4060,4095,579,594
+./images/DJI_0012.jpg,Lightning damage,2354,2371,1506,1528
+./images/DJI_0012.jpg,Lightning damage,2397,2420,1396,1409
+./images/DJI_0012.jpg,Wind Erosion,2229,2269,120,142
+./images/DJI_0012.jpg,Wind Erosion,2270,2284,1891,1899
+./images/DJI_0012.jpg,Wind Erosion,2284,2302,1867,1883
+./images/DJI_0012.jpg,Wind Erosion,2294,2309,1845,1855
+./images/DJI_0012.jpg,Wind Erosion,2309,2321,1821,1833
+./images/DJI_0012.jpg,Wind Erosion,2319,2334,1803,1809
+./images/DJI_0012.jpg,Wind Erosion,2331,2344,1777,1789
+./images/DJI_0016.jpg,Broken part,1184,1304,2390,2479
+./images/DJI_0016.jpg,Lightning damage,1254,1297,16,57
+./images/DJI_0016.jpg,Lightning damage,2645,2700,742,773
+./images/DJI_0016.jpg,Lightning damage,2815,2838,706,747
+./images/DJI_0016.jpg,VG panel missing,2715,2752,617,631
+./images/DJI_0016.jpg,VG panel missing,3077,3112,584,597
+./images/DJI_0016.jpg,Rust,1774,1845,790,956
+./images/DJI_0017.jpg,Lightning damage,2862,2884,708,732
+./images/DJI_0017.jpg,Lightning damage,3023,3049,695,707
+./images/DJI_0017.jpg,VG panel missing,2925,2965,594,604
+./images/DJI_0017.jpg,VG panel missing,3286,3323,571,580
+./images/DJI_0017.jpg,Broken part,1433,1513,2282,2342
+./images/DJI_0017.jpg,Lightning damage,1704,1718,1432,1450
+./images/DJI_0017.jpg,Lightning damage,1739,1755,1326,1338
+./images/DJI_0017.jpg,Rust,2008,2036,827,898
+./images/DJI_0017.jpg,Rust,2018,2076,733,830
+./images/DJI_0017.jpg,Lightning damage,4849,4869,440,457
+./images/DJI_0015.jpg,Lightning damage,1604,1637,1412,1433
+./images/DJI_0015.jpg,Lightning damage,1568,1601,1533,1543
+./images/DJI_0015.jpg,Lightning damage,2789,2807,750,763
+./images/DJI_0015.jpg,Lightning damage,2951,2979,725,742
+./images/DJI_0015.jpg,VG panel missing,2853,2889,620,639
+./images/DJI_0015.jpg,VG panel missing,3215,3256,587,606
+./images/DJI_0015.jpg,Broken part,1273,1417,2414,2485
+./images/DJI_0015.jpg,Lightning damage,1389,1432,13,33
+./images/DJI_0015.jpg,Wind Erosion,1532,1546,1914,1924
+./images/DJI_0015.jpg,Wind Erosion,1544,1557,1895,1907
+./images/DJI_0015.jpg,Wind Erosion,1554,1562,1866,1879
+./images/DJI_0015.jpg,Wind Erosion,1559,1572,1845,1858
+./images/DJI_0015.jpg,Wind Erosion,1569,1584,1821,1832
+./images/DJI_0015.jpg,Wind Erosion,1579,1596,1797,1810
+./images/DJI_0015.jpg,Lightning damage,4760,4795,427,443
+./images/DJI_0029.jpg,Lightning damage,4040,4075,2133,2193
+./images/DJI_0029.jpg,Lightning damage,2730,2751,1137,1153
+./images/DJI_0029.jpg,Lightning damage,2807,2829,1192,1209
+./images/DJI_0029.jpg,Broken part,2380,2460,2041,2068
+./images/DJI_0029.jpg,Rust,1783,1867,821,851
+./images/DJI_0029.jpg,Lightning damage,2362,2374,181,199
+./images/DJI_0029.jpg,VG panel missing,2758,2773,1027,1046
+./images/DJI_0029.jpg,VG panel missing,2926,2938,1171,1190
+./images/DJI_0028.jpg,Lightning damage,4429,4468,1980,2026
+./images/DJI_0028.jpg,Lightning damage,2929,2957,1086,1112
+./images/DJI_0028.jpg,Lightning damage,3017,3065,1138,1162
+./images/DJI_0028.jpg,Rust,1952,2082,789,818
+./images/DJI_0028.jpg,VG panel missing,3150,3177,1109,1129
+./images/DJI_0028.jpg,VG panel missing,2966,2983,984,997
+./images/DJI_0014.jpg,Broken part,1388,1503,2405,2477
+./images/DJI_0014.jpg,Lightning damage,2925,2954,742,762
+./images/DJI_0014.jpg,Lightning damage,3092,3129,714,737
+./images/DJI_0014.jpg,VG panel missing,2994,3037,614,631
+./images/DJI_0014.jpg,VG panel missing,3355,3393,580,590
+./images/DJI_0014.jpg,Lightning damage,1702,1734,1510,1541
+./images/DJI_0014.jpg,Lightning damage,1736,1767,1401,1418
+./images/DJI_0014.jpg,Wind Erosion,1653,1664,1898,1919
+./images/DJI_0014.jpg,Wind Erosion,1661,1678,1880,1892
+./images/DJI_0014.jpg,Wind Erosion,1674,1696,1859,1870
+./images/DJI_0014.jpg,Wind Erosion,1681,1698,1839,1850
+./images/DJI_0014.jpg,Wind Erosion,1691,1705,1814,1825
+./images/DJI_0014.jpg,Lightning damage,1547,1580,1,12
+./images/DJI_0098.jpg,missing,911,935,251,273
+./images/DJI_0098.jpg,missing,2662,2693,1518,1522
+./images/DJI_0098.jpg,missing,2891,2937,1514,1515
+./images/DJI_0098.jpg,broken,1640,1686,2544,2616
+./images/DJI_0098.jpg,hit by some particles,2014,2102,1612,1775
+./images/DJI_0113.jpg,lightning damage,2603,2648,2084,2122
+./images/DJI_0113.jpg,lightning damage,2616,2642,2151,2165
+./images/DJI_0113.jpg,rust,1933,2020,2182,2240
+./images/DJI_0113.jpg,rust,2031,2109,2187,2204
+./images/DJI_0113.jpg,rust,2121,2197,2169,2180
+./images/DJI_0113.jpg,lightning damage,2218,2262,2125,2161
+./images/DJI_0107.jpg,hit by some particles,2116,2384,1947,2090
+./images/DJI_0107.jpg,broken,2237,2259,2643,2765
+./images/DJI_0107.jpg,missing,1835,1848,257,280
+./images/DJI_0107.jpg,missing,2967,2994,2110,2129
+./images/DJI_0107.jpg,missing,3181,3215,2226,2248
+./images/DJI_0106.jpg,hit by some particles,2197,2456,1889,2039
+./images/DJI_0106.jpg,broken,2213,2251,2646,2715
+./images/DJI_0106.jpg,missing,1792,1806,256,273
+./images/DJI_0106.jpg,missing,3033,3062,2032,2043
+./images/DJI_0106.jpg,missing,3262,3294,2131,2145
+./images/DJI_0112.jpg,rust,1802,1897,2181,2211
+./images/DJI_0112.jpg,rust,1907,2064,2144,2182
+./images/DJI_0112.jpg,rust,2094,2131,2129,2145
+./images/DJI_0112.jpg,lightning damage,2092,2133,2090,2123
+./images/DJI_0112.jpg,lightning damage,2467,2509,2030,2068
+./images/DJI_0112.jpg,lightning damage,2479,2504,2095,2117
+./images/DJI_0099.jpg,broken,1723,1787,2540,2597
+./images/DJI_0099.jpg,hit by some particles,2087,2187,1629,1797
+./images/DJI_0099.jpg,missing,1048,1070,243,265
+./images/DJI_0099.jpg,missing,2752,2784,1563,1565
+./images/DJI_0099.jpg,missing,2991,3026,1570,1573
+./images/DJI_0058.jpg,wind erosion,3686,3741,1040,1099
+./images/DJI_0104.jpg,broken,2055,2116,2654,2708
+./images/DJI_0104.jpg,hit by some particles,2148,2374,1837,2022
+./images/DJI_0104.jpg,missing,1570,1592,287,308
+./images/DJI_0104.jpg,missing,2971,3001,1937,1950
+./images/DJI_0104.jpg,missing,3207,3245,2009,2022
+./images/DJI_0110.jpg,hit by some particles,1898,2262,2052,2197
+./images/DJI_0110.jpg,missing,1959,1975,292,312
+./images/DJI_0110.jpg,missing,2381,2419,1816,1837
+./images/DJI_0110.jpg,hit by some particles,2542,2611,1968,2057
+./images/DJI_0110.jpg,missing,2720,2750,2372,2407
+./images/DJI_0110.jpg,missing,2878,2908,2542,2577
+./images/DJI_0111.jpg,rust,1783,1869,2174,2224
+./images/DJI_0111.jpg,rust,1878,1986,2140,2177
+./images/DJI_0111.jpg,rust,1999,2086,2124,2153
+./images/DJI_0111.jpg,lightning damage,2421,2469,2009,2055
+./images/DJI_0105.jpg,missing,1697,1719,259,274
+./images/DJI_0105.jpg,broken,2150,2197,2633,2691
+./images/DJI_0105.jpg,hit by some particles,2175,2425,1839,2005
+./images/DJI_0105.jpg,missing,3234,3275,2052,2063
+./images/DJI_0105.jpg,missing,3006,3039,1968,1985
+./images/DJI_0059.jpg,wind erosion,3259,3303,1261,1307
+./images/DJI_0061.jpg,hit by some particles,1658,1702,2784,2849
+./images/DJI_0061.jpg,wind erosion,3220,3257,971,1014
+./images/DJI_0049.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0049.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0049.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0101.jpg,broken,1962,2030,2572,2643
+./images/DJI_0101.jpg,missing,1410,1425,268,286
+./images/DJI_0101.jpg,hit by some particles,2274,2415,1723,1878
+./images/DJI_0101.jpg,missing,2993,3032,1705,1709
+./images/DJI_0101.jpg,missing,3237,3279,1731,1736
+./images/DJI_0115.jpg,rust,2617,2713,2290,2336
+./images/DJI_0115.jpg,rust,2725,2832,2291,2314
+./images/DJI_0115.jpg,rust,2848,2933,2304,2313
+./images/DJI_0115.jpg,lightning damage,2925,2956,2256,2305
+./images/DJI_0115.jpg,lightning damage,3337,3379,2283,2330
+./images/DJI_0115.jpg,lightning damage,3326,3364,2354,2365
+./images/DJI_0129.jpg,vg panel missing,1768,1823,1239,1273
+./images/DJI_0129.jpg,rust,3088,3139,681,729
+./images/DJI_0129.jpg,rust,3132,3185,730,789
+./images/DJI_0129.jpg,rust,3187,3207,784,824
+./images/DJI_0129.jpg,rust,3203,3219,830,850
+./images/DJI_0129.jpg,wind erosion,3224,3260,810,840
+./images/DJI_0129.jpg,lightning damage,3437,3459,1078,1102
+./images/DJI_0129.jpg,wind erosion,3405,3434,1060,1108
+./images/DJI_0129.jpg,wind erosion,3370,3405,1108,1130
+./images/DJI_0129.jpg,broken,3788,3839,2038,2074
+./images/DJI_0128.jpg,vg panel missing,1954,2004,1192,1235
+./images/DJI_0128.jpg,lightning damage,3609,3631,1047,1070
+./images/DJI_0128.jpg,wind erosion,3569,3607,1032,1074
+./images/DJI_0128.jpg,wind erosion,3539,3569,1079,1093
+./images/DJI_0128.jpg,wind erosion,3650,3675,1017,1051
+./images/DJI_0128.jpg,rust,3236,3293,645,701
+./images/DJI_0128.jpg,rust,3286,3357,701,782
+./images/DJI_0128.jpg,rust,3357,3378,795,821
+./images/DJI_0128.jpg,wind erosion,3393,3420,774,819
+./images/DJI_0114.jpg,rust,2222,2320,2251,2281
+./images/DJI_0114.jpg,rust,2329,2440,2240,2254
+./images/DJI_0114.jpg,rust,2448,2534,2231,2258
+./images/DJI_0114.jpg,lightning damage,2529,2559,2187,2230
+./images/DJI_0114.jpg,lightning damage,2925,2966,2175,2218
+./images/DJI_0114.jpg,lightning damage,2921,2950,2245,2263
+./images/DJI_0100.jpg,broken,2027,2109,2600,2672
+./images/DJI_0100.jpg,missing,1502,1520,318,343
+./images/DJI_0100.jpg,hit by some particles,2387,2498,1768,1897
+./images/DJI_0100.jpg,missing,3087,3123,1731,1734
+./images/DJI_0100.jpg,missing,3329,3365,1752,1758
+./images/DJI_0048.jpg,Rust,2060,2168,1262,1315
+./images/DJI_0048.jpg,Broken part,3246,3340,2870,2917
+./images/DJI_0048.jpg,Lightning damage,601,630,2924,2946
+./images/DJI_0060.jpg,wind erosion,3273,3323,1722,1772
+./images/DJI_0089.jpg,hit by some particles,1121,1144,260,287
+./images/DJI_0089.jpg,hit by some particles,2358,2527,1423,1547
+./images/DJI_0116.jpg,lightning damage,2865,2964,2388,2434
+./images/DJI_0116.jpg,rust,2973,3087,2399,2418
+./images/DJI_0116.jpg,rust,3100,3143,2407,2424
+./images/DJI_0116.jpg,rust,3173,3188,2424,2442
+./images/DJI_0116.jpg,lightning damage,3181,3219,2385,2420
+./images/DJI_0116.jpg,lightning damage,3609,3654,2445,2487
+./images/DJI_0116.jpg,lightning damage,3597,3630,2516,2526
+./images/DJI_0102.jpg,missing,1305,1324,324,344
+./images/DJI_0102.jpg,missing,2825,2865,1826,1834
+./images/DJI_0102.jpg,missing,3068,3106,1866,1877
+./images/DJI_0102.jpg,hit by some particles,2040,2228,1809,1979
+./images/DJI_0102.jpg,broken,1886,1927,2647,2699
+./images/DJI_0103.jpg,missing,919,940,328,352
+./images/DJI_0103.jpg,hit by some particles,1671,1881,1855,2050
+./images/DJI_0103.jpg,missing,2481,2517,1898,1905
+./images/DJI_0103.jpg,missing,2719,2762,1940,1953
+./images/DJI_0103.jpg,broken,1591,1649,2705,2771
+./images/DJI_0117.jpg,vg panel missing,3221,3235,2534,2545
+./images/DJI_0117.jpg,lightning damage,3361,3380,2526,2547
+./images/DJI_0117.jpg,wind erosion,3330,3369,2549,2576
+./images/DJI_0117.jpg,wind erosion,3322,3352,2597,2613
+./images/DJI_0117.jpg,rust,2575,2905,2462,2520
+./images/DJI_0117.jpg,wind erosion,2907,2941,2457,2516
+./images/DJI_0088.jpg,crack,1181,1201,255,283
+./images/DJI_0088.jpg,hit by some particles,2399,2586,1419,1548
